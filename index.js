@@ -1,4 +1,4 @@
-const { fstat } = require('fs');
+const fs = require('fs');
 const http = require('http');
 
 const hostname = '127.0.0.1';
