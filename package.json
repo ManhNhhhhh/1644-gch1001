@@ -1,0 +1,25 @@
+{
+  "name": "1644-gch1001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManhNhhhhh/1644-gch1001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManhNhhhhh/1644-gch1001/issues"
+  },
+  "homepage": "https://github.com/ManhNhhhhh/1644-gch1001#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
